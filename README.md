@@ -129,6 +129,7 @@ depth both improve; both numbers are reported, as the brief requires.
 | `Certificate_of_Excellence_SOLVED.ipynb` | mandatory notebook, executed, 220/220 |
 | `RUN_CHECKS.bat` | one-click correctness check on Windows |
 | `START_JUPYTER.bat` | one-click JupyterLab in the browser (no VS Code needed) |
+| `docs/organizer_originals/` | untouched organizer task notebooks (the official challenge statement) |
 
 ## Quickstart
 
