@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.zip
+*.mp4
+.ipynb_checkpoints/
+VIDEO_GUIDE.md
